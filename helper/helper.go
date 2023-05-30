@@ -8,4 +8,4 @@ func ValidataUserInput(firstName string, lastName string, email string, userTick
 
 	return isValidEmail,isValidName,isValidTickets
 
-} 
+}
